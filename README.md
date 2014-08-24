@@ -1,5 +1,6 @@
 # Notes
 this notebook mainly covers three things at present,  
+
 	 * Bash
 	 * Perl
 	 * Python

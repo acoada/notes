@@ -1,11 +1,12 @@
-#Books
-###Mastering Algorithms with Perl
-####1.Introdution
-binary search demo
-####2.Basic Data Structures
-array, hash, and the simple data structures that result naturally from their use  
-queue and stacks
-####3.Advanced Data Structures
-linked list  
-Garbage Collection: reference counting  
-Doubly-linked list
+# Notes
+this notebook mainly covers three things at present,  
+	 * Bash
+	 * Perl
+	 * Python
+
+## Bash
+I recently read *Learning the Bash Shell* and took some notes while practising.
+## Perl
+My working language. I merely handle the basis.
+## Python
+I'm still learning it.
